@@ -8,7 +8,7 @@ function App() {
     <>
     <Header />
   <Portfolio/>
-  <div className='message'> Still Worging on it... check it out later for more  </div>
+  <div className='message'> Still Working on it... check it out later for more  </div>
     </>
 
   );
