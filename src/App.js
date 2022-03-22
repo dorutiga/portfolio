@@ -8,6 +8,7 @@ function App() {
     <>
     <Header />
   <Portfolio/>
+  <div className='message'> Still Worging on it... check it out later for more  </div>
     </>
 
   );
